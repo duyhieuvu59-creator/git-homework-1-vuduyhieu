@@ -10,3 +10,6 @@ Thumbs.db
 # Môi trường ảo
 venv/
 .env
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
