@@ -7,3 +7,4 @@ NHÁNH ĐÃ MERGE
   week2b
 NHÁNH CHƯA MERGE
   wip
+Giai thich rebase: Lệnh rebase đã nhấc commit của nhánh experiment ra và áp đặt nối tiếp lên trên commit mới nhất của nhánh main. Việc này định tuyến lại lịch sử thành một đg thẳng duy nhất tránh tạo ra merge commit thừa thãi
